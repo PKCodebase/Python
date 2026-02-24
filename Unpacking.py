@@ -1,0 +1,2 @@
+t="kaushik"
+print(t)
