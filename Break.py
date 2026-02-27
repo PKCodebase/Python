@@ -3,3 +3,15 @@ for i in range(21):
         break
     else:
         print(i)
+
+
+
+print("_________________________")
+
+for i in range(1,30):
+    if i==100:
+        print("Not Executed")
+        break
+    print(i)
+else:
+        print("Executed")
