@@ -22,3 +22,9 @@ def sub(a,b=10):    #Default Arguments
     print("Subtraction is : ",a-b)
 sub(10)
 sub(40,20)
+
+
+print("-------------------------")
+def value():
+     return "Hello World"
+print(value())
